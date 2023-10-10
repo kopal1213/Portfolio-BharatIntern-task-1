@@ -1,0 +1,61 @@
+.purple{
+    color: rgb(170, 135, 203);
+}
+.gray{
+    color: grey;
+}
+.secondSection .vertical{
+    height: 70px;
+    width: 1px;
+    background-color: #ffffff;
+    margin: 0 100px;
+}
+.image-top{
+    width: 23px;
+    position: relative;
+    top: -32px;
+    left: -9px;
+}
+.vertical-text{
+    position: relative;
+    top: 45px;
+    width: 150px;
+    font-size: 14px;
+}
+.vertical-description{
+    position: relative;
+    color: grey;
+    top: 60px;
+    width: 150px;
+    font-size: 9px;
+}
+.flex{
+    display: flex;
+    padding: 23px 122px;
+    justify-content: space-evenly;
+}
+/* //Contact */
+
+.form-text{
+    font-size: 10px;
+    color: midnightblue;
+}
+
+.contactform form div .form-control{
+    font-size: 15px;
+}
+
+.btn-primary{
+    padding: 7px;
+    margin: 23px 10px;
+    border: none;
+    border-radius: 8px;
+    width: 10vw;
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.third{
+    height: 80vh;
+}
